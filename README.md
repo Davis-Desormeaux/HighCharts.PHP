@@ -57,7 +57,7 @@ function createSplineChart() {
     </script>
   </body>
 </html>
-```php
+```
 
 ## Screenshot
 
